@@ -2,7 +2,9 @@
 
 https://dry-thicket-41396.herokuapp.com/
 
-# Add default.json file under conifg folder as below:
+# Quick Start
+
+### Add default.json file under conifg folder as below:
 
 ```
 {
@@ -10,3 +12,26 @@ https://dry-thicket-41396.herokuapp.com/
   "jwtSecret": "your-secret-token",
 }
 ```
+
+### Install server dependencies
+
+```
+npm install
+```
+
+### Install client dependencies
+
+```
+cd client
+npm install
+```
+
+### Run from root level
+
+```
+npm run dev
+```
+
+### Check browser on
+
+http://localhost:5000/
