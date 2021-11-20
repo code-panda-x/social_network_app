@@ -9,7 +9,7 @@ https://dry-thicket-41396.herokuapp.com/
 ```
 {
   "mongoURI": "your-mongoDB-atlas-credentials",
-  "jwtSecret": "your-secret-token",
+  "jwtSecret": "your-secret-token"
 }
 ```
 
